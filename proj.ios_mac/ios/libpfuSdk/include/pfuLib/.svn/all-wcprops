@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/huluwa/!svn/ver/10/Dev/frameworks/runtime-src/proj.ios_mac/ios/libpfuSdk/include/pfuLib
+END
+ViewControllerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/huluwa/!svn/ver/10/Dev/frameworks/runtime-src/proj.ios_mac/ios/libpfuSdk/include/pfuLib/ViewControllerDelegate.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/huluwa/!svn/ver/10/Dev/frameworks/runtime-src/proj.ios_mac/ios/libpfuSdk/include/pfuLib/Util.h
+END
+GameFloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/huluwa/!svn/ver/10/Dev/frameworks/runtime-src/proj.ios_mac/ios/libpfuSdk/include/pfuLib/GameFloat.h
+END
+pfuLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/huluwa/!svn/ver/10/Dev/frameworks/runtime-src/proj.ios_mac/ios/libpfuSdk/include/pfuLib/pfuLib.h
+END
+MBProgressHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/huluwa/!svn/ver/10/Dev/frameworks/runtime-src/proj.ios_mac/ios/libpfuSdk/include/pfuLib/MBProgressHUD.h
+END
+FloatMenuDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/huluwa/!svn/ver/10/Dev/frameworks/runtime-src/proj.ios_mac/ios/libpfuSdk/include/pfuLib/FloatMenuDelegate.h
+END
